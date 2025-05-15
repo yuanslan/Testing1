@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext>
+    <article xml:id="notes">
+        <section xml:id="notes-week-01">
+        <title>Week 1</title>
+        <p>
+            This week we covered the following topics:
+            Paragraph 
+            <url href="https://discrete.openmathbooks.org/dmoi3/ch_intro.html#ch_intro-2-1/">Demo Site</url>
+
+        </p>
+
+        </section>
+    </article>
+</pretext>

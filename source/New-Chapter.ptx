@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-New-Chapter" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>New Chapter</title>
+
+
+  <!-- The xpointer="worksheet/1" says to only include the first element of the element with id "worksheet", which should be the xml:id on the enclosing article of the included file -->
+  
+<p>
+  this is a testing chapter.
+</p>
+  <!-- Add more xi:include files here to include them in the main course -->
+</chapter>
