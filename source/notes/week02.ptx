@@ -5,8 +5,24 @@
         <section xml:id="notes-week-02">
         <title>Week 2</title>
         <p>
-            This week we covered the following topics in the second week.
+            This week we will introduce the set theory, it will 
+            cover the following topics: 
+            <ul>
+                <li>Set notations</li>
+                <li>Set operations</li>
+                <li>Power Sets</li>
+                <li>Set Operations</li>
+                <li>Cartesian Products</li>
+                <li>Venn Diagrams</li> 
+                <li>Set Identities</li> 
+                <li>Cardinality</li>              
+            </ul>
+            <p> 
+                See the link Section 0.3: Sets 
+                <url href="Section 0.3: Sets https://discrete.openmathbooks.org/dmoi3/sec_intro-sets.html/">introduction to sets</url>
+            </p>
         </p>
+            
 
         </section>
     </article>
