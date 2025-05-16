@@ -5,9 +5,16 @@
         <section xml:id="notes-week-01">
         <title>Week 1</title>
         <p>
-            This week we covered the following topics:
-            Paragraph 
-            <url href="https://discrete.openmathbooks.org/dmoi3/ch_intro.html#ch_intro-2-1/">Demo Site</url>
+            This week we will introduction the basics of propositional logic. 
+            We will cover the following topics:
+            <ul>
+                <li>Propositions</li>
+                <li>Logical Connectives</li>
+                <li>Truth Tables</li>
+                <li>Logical Equivalence</li>
+                <li>Implication and Equivalence</li>
+            </ul>
+        See the link <url href="https://discrete.openmathbooks.org/dmoi3/ch_intro.html#ch_intro-2-1/">Demo Site</url>
 
         </p>
 
