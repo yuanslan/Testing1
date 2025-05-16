@@ -5,7 +5,18 @@
         <section xml:id="notes-week-03">
         <title>Week 3</title>
         <p>
-            This week we covered the following topics in the third week.
+            This week we will introduce about the functions. 
+            The following topics will be covered in the third week:
+            <ul>
+                <li>Definition of a function</li>
+                <li>Domain and range of a function</li>
+                <li>Types of functions</li>
+                <li>Function notation</li>
+                <li>Graphing functions</li>
+                <li>Inverse functions</li>
+                <li>Compositions of functions</li>
+                <li>Injective, surjective and bijective functions</li>
+            </ul>
         </p>
 
         </section>
