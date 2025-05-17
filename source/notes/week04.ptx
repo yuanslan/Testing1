@@ -6,7 +6,18 @@
         <title>Week 4</title>
         <p>
             This week we covered the following topics in the fourth week.
-            Relations, Predicates and Quantifiers.
+            Relations, Predicates and Quantifiers. It will include the following topics:
+            <ul>
+                <li>Definition of a relation</li>
+                <li>Types of relations</li>
+                <li>Properties of relations</li>
+                <li>Equivalence relations</li>
+                <li>Partial orders</li>
+                <li>Functions as relations</li>
+                <li>Predicates and quantifiers</li>
+                <li>Universal and existential quantifiers</li>
+                <li>Nested quantifiers</li>
+          
         </p>
 
         </section>
