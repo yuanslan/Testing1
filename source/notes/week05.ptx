@@ -8,9 +8,17 @@
             This week we covered the following topics in the fifth week.
             Introduction to reasoning,rules of inferences, arguments and proofs.
             We also discussed the difference between direct and indirect proofs.
-            We also covered the concept of proof by contradiction and proof by contrapositive.
-        </p>
-
+            We also covered the concept of proof by contradiction 
+            and proof by contrapositive. We will cover the following:
+            <ul>
+                <li>Introduction to reasoning</li>
+                <li>Rules of inference</li>
+                <li>Arguments and proofs</li>
+                <li>Direct and indirect proofs</li>
+                <li>Proof by contradiction</li>
+                <li>Proof by contrapositive</li>
+            </ul>
+         </p>
         </section>
     </article>
 </pretext>
