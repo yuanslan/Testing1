@@ -9,6 +9,11 @@
             We will cover the following topics:
             <ul>
                 <li>Propositions</li>
+                The basic building blocks of propositional logic 
+                are propositions  
+                which are statements that can be either true or false. 
+                For example, "The sky is blue" is a proposition.
+                do you know that the sky is blue? is not a proposition.
                 <li>Logical Connectives</li>
                 <li>Truth Tables</li>
                 <li>Logical Equivalence</li>
