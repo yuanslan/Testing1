@@ -7,6 +7,15 @@
         <p>
             This week we covered the following topics in the seventh week.
             Mathematical Induction, Strong Induction and Recursive Definitions.
+            We will cover the following:
+            <ul>
+                <li>Mathematical Induction</li>
+                <li>Strong Induction</li>
+                <li>Recursive Definitions</li>
+                <li>Recursive Algorithms</li>
+                <li>Recursive Functions</li>
+                <li>Recursive Relations</li>
+            </ul>
         </p>
 
         </section>
